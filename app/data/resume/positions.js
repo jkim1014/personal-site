@@ -1,95 +1,49 @@
-
 const positions = [
   {
-    company: 'Arthena',
-    position: 'Cofounder, C.T.O.',
-    link: 'https://arthena.com',
-    daterange: 'January 2014 - Present',
+    company: "Addis Coder",
+    position: "Lecturer/Teaching Assistant",
+    link: "https://addiscoder.com",
+    daterange: "May 2019 - Present",
     points: [
-      'Created a new financial product for private equity investing. Deployed models to predict the valuation of art at auction.',
-      'Lead development team, set development lifecycle, and managed analytics and web products.',
-      'Built production on-line ETL Pipelines on Kubernetes with Pandas, Postgres, and Kubeflow on GCP.',
-      'Solved end-to-end optimization problems with MCMC, Modern Portfolio Theory, GLM, etc. using Pandas, Numpy, Scikit, Theano, PyMC3, and Jupyter.',
-      'YC Alumn. Worked on everything. Built a 16-person team.',
-    ],
-  }, {
-    company: 'Enveritas',
-    position: 'Consultant',
-    link: 'http://enveritas.org',
-    daterange: 'September 2016 - Present',
-    points: [
-      'Trained a model for the Brazilian Coffee Scenes Dataset with better than state of the art accuracy.',
-      'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
-      'Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM’s, and other techniques.',
-    ],
-  }, {
-    company: 'Zenysis',
-    position: 'Consultant',
-    link: 'http://zenysis.com',
-    daterange: 'February 2016 - March 2016',
-    points: [
-      'Worked in Addis Ababa for the Ethiopian Ministry of Health and built data visualization tools in React and Flask.',
-      'Ingested multiple databases with different alphabets, calendars, and without official spellings of geographic locations.',
-    ],
-  }, {
-    company: 'Matroid',
-    position: 'Cofounder',
-    link: 'http://matroid.com',
-    daterange: 'July 2015 - January 2016',
-    points: [
-      'Developed end to end machine learning pipeline to train visual classifiers from keywords using Node.JS, Express, Keystone, MongoDB, AWS, S3, Caffe, and other technologies.',
-      'Received Series A term sheets for 20M+ valuations.',
-    ],
-  }, {
-    company: 'Planet',
-    position: 'Missions Intern',
-    link: 'https://planet.com',
-    daterange: 'June 2014 - January 2015',
-    points: [
-      'Built models to improve image quality, signal to noise ratio, and dynamic range.',
-      'Performed statistical analysis of image quality in Matlab and Python.  Developed flight software in C++.',
-      'Organized first hackathon, prototyped hardware, and designed and built photography equipment for rocket launches.',
-    ],
-  }, {
-    company: 'Planetary Resources',
-    position: 'Avionics Intern',
-    link: 'http://planetaryresources.com',
-    daterange: 'January 2014 - May 2014',
-    points: [
-      'Developed simulations in Matlab for Attitude Determination and Control Subsystem.',
-      'Developed processes for in lab testing and characterization of various subsystems.',
-      'Assembled flight hardware in cleanroom.',
-    ],
-  }, {
-    company: 'Facebook',
-    position: 'Intern',
-    link: 'https://facebook.com',
-    daterange: 'June 2013 - September 2013',
-    points: [
-      'Developed software in python for automated testing of servers.',
-      'Performed statistical analysis with R, HIVE to assist in triage of malfunctioning servers.',
-      'Worked with vendors and ODM’s during triage to assist in risk mitigation.',
-    ],
-  }, {
-    company: 'SEDS-USA',
-    position: 'At Large Board Member',
-    link: 'http://seds.org',
-    daterange: 'October 2013 - October 2014',
-    points: [
-      'Elected to Board of Directors of the USA’s largest student space advocacy group based on 5+ years of work with SEDS.',
-      'Responsibilities included: organizational strategy, conference presentations, fundraising, special projects, promoting SEDS nationally and internationally, and photographing conferences.',
-    ],
+      "Teach accelerated algorithms theory and Python coding 5 days a week to 180+ government selected students.",
+      "Collaborate with lecturers from Harvard, Stanford, and Google to generate comprehension exercises.",
+      "Review essays and portfolios for students applying to American colleges’ computer science programs."
+    ]
   },
   {
-    company: 'UB Nanosatellite Program',
-    position: 'Cofounder, Program Manager',
-    link: 'https://ubnl.space/',
-    daterange: 'October 2010 – June 2012',
+    company: "Break the Love",
+    position: "Product Manager/Software Engineer",
+    link: "http://breakthelove.com",
+    daterange: "April 2019 - Present",
     points: [
-      'Coauthored grant to build a multispectral imaging satellite as part of the AFRL University Nanosatellite Program.',
-      'Lead a team of 60 students through satellite development life cycle. Served as a technical expert, acquired intimate working knowledge of satellite subsystems.  Solicited funding through NASA, AFOSR, and several corporate sponsors.',
-    ],
+      "Employee #3 at marketplace startup that connects sports players and places to play; seed round VC backed.",
+      "Analyze customers’ booking data to develop smart SMS booking Twilio bot and launch a CMS for company staff, decreasing customer churn by 82% and driving new sign-ups by 530% in one month.",
+      "Build software for tennis court owners to become hosts for bookings to grow supply-chain by 270%, using ReactJS, NodeJS, and GraphQL.",
+      "Redesign and engineer promotional website to increase traffic by 260% using Figma and ReactJS."
+    ]
   },
+  {
+    company: "Harvard University",
+    position: "Teaching Fellow for Introduction to CS",
+    link: "http://cs50.io",
+    daterange: "March 2019 - Present",
+    points: [
+      "Prepare and lead a weekly class for 20 students to expand on concepts related to lecture material.",
+      "Hold office hours and problem solving sessions twice a week for 200+ students to go over C programming, Python programming, algorithms, web development in CSS/HTML, JavaScript, Python Django, and SQL."
+    ]
+  },
+  {
+    company: "HSA DEV",
+    position: "Technical Product Manager/Full Stack Engineer ",
+    link: "http://hsa.dev.com",
+    daterange: "December 2017 - April 2019",
+    points: [
+      "Recruited and managed 3 teams of 4 developers to deliver web-based products worth $54k to clients.",
+      "Developed ALS donation platform that raised $13mil for research and gained sponsorships from NFL athletes and REST APIs for smart employee payment system, both using ReactJS, NodeJS, and GraphQL.",
+      "Scoped out front-end and back-end architectures and deployed 5 products.",
+      "Established company-wide agile programming and standards for responsive ReactJS UI engineering."
+    ]
+  }
 ];
 
 export default positions;

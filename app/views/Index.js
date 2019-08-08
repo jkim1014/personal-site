@@ -12,19 +12,19 @@ const Index = () => (
       <header>
         <div className="title">
           <h2>
-            <Link to="/">About this site</Link>
+            <Link to="/">Hi!</Link>
           </h2>
           <p>
-            A judgement free space for me and you to explore what I think about.
+            I'm Joon, and this is a judgement free space for you to get to know
+            me.
           </p>
         </div>
       </header>
       <p>
-        {" "}
-        Welcome to my website. Please feel free to read more{" "}
-        <Link to="/about">about me</Link>, or you can check out my{" "}
-        <Link to="/resume">resume</Link>, <Link to="/projects">projects</Link>,{" "}
-        view <Link to="/stats">site statistics</Link>, or{" "}
+        Feel free to read more <Link to="/about">about me</Link>, or you can
+        check out my <Link to="/resume">resume</Link>,{" "}
+        <Link to="/projects">projects</Link>, view{" "}
+        <Link to="/stats">site statistics</Link>, or{" "}
         <Link to="/contact">contact</Link> me.
       </p>
       <img
