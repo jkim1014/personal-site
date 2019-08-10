@@ -4,7 +4,7 @@ const data = [
     title: "Addis Coder",
     subtitle: "4-weeks Algorithm and Python camp.",
     link: "https://www.addiscoder.com/",
-    image: "/images/projects/teach.jpg",
+    image: `${BASE_PATH}/images/projects/teach.jpg`,
     date: "2019-06-20",
     desc:
       "4-week intensive algorithms and Python programming camp. " +
@@ -15,7 +15,7 @@ const data = [
     title: "Break the Love",
     subtitle: "Marketplace to connect sports players with places to play.",
     link: "https://www.breakthelove.com/",
-    image: "/images/projects/break.png",
+    image: `${BASE_PATH}/images/projects/break.png`,
     date: "2019-05-20",
     desc:
       "Seamlessly connect sports players with places to play. " +
@@ -28,7 +28,7 @@ const data = [
     subtitle:
       "A digital ALS campaign started to kickstart research at Mass General Hospital.",
     link: "https://tackleals.com/",
-    image: "/images/projects/als.png",
+    image: `${BASE_PATH}/images/projects/als.png`,
     date: "2018-11-20",
     desc:
       "Collaborated with Mass. General Hospital to raise $13 mil for ALS research through a web driven campaign. " +
@@ -40,7 +40,7 @@ const data = [
     subtitle:
       "Visualization to provide insights for increasing efficiency with bike sharing in LA.",
     link: "https://la-bike-sharing-webapp.herokuapp.com/",
-    image: "/images/projects/bike.jpg",
+    image: `${BASE_PATH}/images/projects/bike.jpg`,
     date: "2018-07-20",
     desc:
       "Formulated mathematical models using LA Metro-bike data (available publicly) to provide insights on bike sharing in Los Angeles. " +
