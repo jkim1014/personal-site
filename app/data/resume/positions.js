@@ -7,7 +7,7 @@ const positions = [
     points: [
       "Teach accelerated algorithms theory and Python coding 5 days a week to 180+ government selected students.",
       "Collaborate with lecturers from Harvard, Stanford, and Google to generate comprehension exercises.",
-      "Review essays and portfolios for students applying to American colleges’ computer science programs."
+      "Hold information sessions and identify resources for Ethiopian students applying to U.S. college CS programs."
     ]
   },
   {
@@ -25,7 +25,7 @@ const positions = [
   {
     company: "Harvard University",
     position: "Teaching Fellow for Introduction to CS",
-    link: "http://cs50.io",
+    link: "https://cs50.harvard.edu",
     daterange: "March 2019 - Present",
     points: [
       "Prepare and lead a weekly class for 20 students to expand on concepts related to lecture material.",

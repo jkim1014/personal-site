@@ -43,8 +43,8 @@ const Index = () => (
       </p>
       <p>
         {" "}
-        Source available{" "}
-        <a href="https://github.com/mldangelo/personal-site">here</a>.
+        Source for this site available{" "}
+        <a href="https://github.com/jkim1014/joon-site-v2">here</a>.
       </p>
     </article>
   </Main>

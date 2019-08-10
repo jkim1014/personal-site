@@ -1,6 +1,6 @@
 
 #### Intro
-I am a student at Harvard studying Computer Science and Physics. I was born and raised with a family of 5 the first half of my life in Seoul, South Korea, then fell in love with Miami after immigration. I enjoy growing empathy as a product manager advocating for customers and learning the best practices as a software engineer.
+I am a student at Harvard studying Computer Science and Physics. I was born and raised the first half of my life in Seoul, South Korea, then fell in love with Miami after immigration. I enjoy growing empathy as a product manager advocating for customers and learning the best modern engineering practices as a software engineer.
 <br><br>
 I am passionate about teaching CS concepts, learning about consumers with B2C products, and working with honest and innovative designs. I am particularly interested in incremental social impact with education and perpetuating ethical decisions when building products.
 <br><br>
@@ -14,12 +14,21 @@ At Break the Love, I have been ideating and engineering software products alongs
 - Bringing equal opportunity for all.
 - Growing empathy for all family, friends, and acquaintances.
 - Being the best version of myself each day to grow personally and technically.
+- Learning about scalable systems.
 
 #### Some History
 
 - I first touched a computer when my older siblings introduced a Lego car racing game burnt onto a CD (Windows 98 by the way). This might have been when I found out that I should not be a pro-racer in the future.
 
-- 2005 winter marks the first time I finally un-scrambled a Rubik's cube. It took me at least 5 frustrations and 13 crying sessions.
+- My first Rubik's cube solve happened at the age of 7. It took me at least 5 frustrations and 13 crying sessions. Now, it only takes me 2 frustrations and -1 crying sessions.
+
+- I first competed in mathematics contests at the age of 8. My mother did not warn me of what I was getting myself into.
+
+- I moved to the United States in 2007. I turned 9 years old shortly after.
+
+- I took my first computer science course at the end of my highschool senior year. Java coding did not interest me until Asteroids game coding project rolled into our class.
+
+- I have had the fortunate experience of learning web development through an entirely student-led company. I see it as an incredibly useful and flexible tool in my life now.
 
 You can ask me in person for other stories that I'm afraid to share with the internet.
 <br><br>
